@@ -1,0 +1,23 @@
+2025-04-03 01:34:16,242 - ERROR - Failed to create user Alice. Status code: 403, Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;create&#95;user" on this server.<P>
+Reference&#32;&#35;18&#46;88f6d517&#46;1743662055&#46;41fff8
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;88f6d517&#46;1743662055&#46;41fff8</P>
+</BODY>
+</HTML>
+
+2025-04-03 01:34:16,242 - ERROR - Missing required data for user Bob. Skipping this entry.
+2025-04-03 01:34:17,754 - ERROR - Failed to create user Charlie. Status code: 403, Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;create&#95;user" on this server.<P>
+Reference&#32;&#35;18&#46;88f6d517&#46;1743662057&#46;427152
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;88f6d517&#46;1743662057&#46;427152</P>
+</BODY>
+</HTML>
+
